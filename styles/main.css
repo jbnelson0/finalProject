@@ -22,6 +22,10 @@
 	margin: 20px;
 }
 
+.ctext{
+	text-align: center;
+}
+
 .buttons{
 	float: left;
 	padding: 20px;
